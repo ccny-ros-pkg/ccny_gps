@@ -1,0 +1,9 @@
+<stack>
+  <description brief="GPS routines and drivers (such as the Novatel GPS Device)">ccny_gps</description>
+  <author>Maintained by Carlos Jaramillo and Daniel Perea-Strom</author>
+  <license>GPL v.3</license>  
+  <review status="experimental" notes="Under active development"/>
+  <url>http://ros.org/wiki/ccny-ros-pkg/ccny_gps</url>
+  <depend stack="ros" />
+
+</stack>
